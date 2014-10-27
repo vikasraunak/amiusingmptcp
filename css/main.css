@@ -1,6 +1,6 @@
 /* main.css - Matt Layher - Are you using MPTCP? */
 body {
-	background-image: url("/img/dark_geometric.png");
+	background-image: url("../img/dark_geometric.png");
 	background-repeat: repeat;
 	text-align: center;
 	font-family: arial, sans-serif;
