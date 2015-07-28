@@ -24,6 +24,9 @@
 			echo "<p class=\"big red\">NO!</p>\n";
 			echo "\t\t<h2>Can I use MPTCP?</h2>\n";
 			echo "\t\t";
+			
+			echo "<p>Your OS Platform is"+get_platform()+"</p>\n";
+	
 
 			// Detect operating system
 			switch (get_platform())
